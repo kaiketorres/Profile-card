@@ -7,7 +7,7 @@
 </div>
 
 # Bem-vindo! 👋 <a name="id01"></a>
-Projeto do Site Frontendmentor sobre as linguagens de marcação HTML5 e CSS3.
+Projeto do Site Frontendmentor
 
 
 # &#x1F680; Status
